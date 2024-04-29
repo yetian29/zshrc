@@ -82,9 +82,6 @@ ZSH_THEME="powerlevel10k/powerlevel10k"
 
 plugins=(git zsh-autosuggestions)
 
-# Tmux
-alias tmx="tmux attach -t Session"
-alias tmx -d="tmux detach"
 
 # Git
 alias la='ls -al'
